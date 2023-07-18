@@ -1,0 +1,4 @@
+../RTL/gift_enc_core_controller.v
+../RTL/gift_128_enc.v
+../RTL/gift_128_dec.v
+../TB/gift_128_lp_tb.v
